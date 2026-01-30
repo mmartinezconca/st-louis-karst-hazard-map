@@ -3,9 +3,10 @@ St. Louis Metropolitan Area
 
 ## Overview
 
-![Seismic risk context map of Chile](figures/chile_seismic_context_map.png)
+![Karst Hazard Map](layouts/stl_karst_hazard_map.png)
 
-[Download full-resolution map (PDF)](figures/chile_seismic_context_map_github.pdf)
+
+[Download full-resolution map (PDF)]()
 
 *Optimized for web viewing; original high-resolution file available upon request.*
 
