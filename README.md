@@ -3,7 +3,7 @@ St. Louis Metropolitan Area
 
 ## Overview
 
-![Karst Hazard Map](layouts/stl_karst_hazard_map_layout.png)
+![Karst Hazard Map](layouts/stl_karst_hazard_map.png)
 
 
 [Download full-resolution map (PDF)](layouts/stl_karst_hazard_map_layout.pdf)
